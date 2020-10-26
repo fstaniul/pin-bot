@@ -1,0 +1,10 @@
+{
+  "name": "pin-bot",
+  "version": "0.1.0",
+  "description": "Discord bot that pins your message to the channel",
+  "main": "src/main.js",
+  "repository": "https://github.com/fstaniul/pin-bot",
+  "author": "Filip Staniul <filip.staniul@hotmail.com>",
+  "license": "MIT",
+  "private": true
+}
